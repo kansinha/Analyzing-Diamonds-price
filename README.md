@@ -4,10 +4,15 @@ This notebook demonstrates a machine learning workflow in R for predicting diamo
 
 linked to the notebook: https://www.kaggle.com/code/kanaksinha05/notebook644aff4695
 Dataset: Diamonds dataset (/kaggle/input/diamonds/diamonds.csv)
+
 Rows: 53,940
+
 Columns: 10 features after removing the index column
+
 Target variable: price (numeric) — price in USD
+
 Predictors: carat, cut, color, clarity, depth, table, x, y, z
+
 Source: Kaggle
 
 1. Data Preparation
